@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { GameComponent } from './game/game.component';
 import { PlayerComponent } from './player/player.component';
 import { ResultsComponent } from './results/results.component';
+import { HelloworldComponent } from './helloworld/helloworld.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { ResultsComponent } from './results/results.component';
     GameComponent,
     PlayerComponent,
     ResultsComponent,
+    HelloworldComponent,
     
   ],
   imports: [
